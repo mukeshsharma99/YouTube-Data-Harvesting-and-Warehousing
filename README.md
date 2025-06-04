@@ -15,7 +15,7 @@ An intuitive **web-based interface** built with Streamlit that allows users to:
 - Run queries
 - Visualize insights interactively
 
-### ✅ YouTube API Integration  
+### ✅ YouTube API Integration      
 Leverages the **YouTube Data API** to retrieve:
 - Channel metadata
 - Video details

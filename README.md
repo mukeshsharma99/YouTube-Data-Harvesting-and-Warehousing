@@ -13,7 +13,7 @@ An intuitive **web-based interface** built with Streamlit that allows users to:
 - Harvest data
 - Migrate data to SQL
 - Run queries
-- Visualize insights interactively
+- Visualize insights interactively  
 
 ### ✅ YouTube API Integration      
 Leverages the **YouTube Data API** to retrieve:

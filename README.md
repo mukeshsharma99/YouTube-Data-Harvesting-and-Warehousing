@@ -4,7 +4,7 @@
 This project builds a complete data pipeline to **harvest data from YouTube**, **store it in a SQL data warehouse**, and **analyze it via an interactive Streamlit web app**. It provides a powerful way to extract meaningful insights from YouTube channels, videos, and comments — all in one seamless flow.
  
 ---
-
+ 
 ## 🧠 Project Overview   
 
 ### ✅ Streamlit Application  

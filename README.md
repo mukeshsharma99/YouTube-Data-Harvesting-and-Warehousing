@@ -8,7 +8,7 @@ This project builds a complete data pipeline to **harvest data from YouTube**, *
 ## 🧠 Project Overview   
 
 ### ✅ Streamlit Application  
-An intuitive **web-based interface** built with Streamlit that allows users to:
+An intuitive **web-based interface** built with Streamlit that allows users to: 
 - Input YouTube channel IDs
 - Harvest data  
 - Migrate data to SQL
